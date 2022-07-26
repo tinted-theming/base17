@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.11.0 (Jul 25, 2022)
+
+- Move colors under the `palette` key
+- Add `system`, `slug` and `description`
+- Require HTML hex values to be preceded by `#`
+
 ## 0.10.0 (Mar 20, 2021)
 
 - Simplify repo structure and builder responsibilities

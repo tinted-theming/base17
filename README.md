@@ -1,8 +1,8 @@
-# Base17
+# Base17 <img alt="color wheel" src="./img/color_wheel.png" width="100" align="right" style="padding-top:0.6rem;">
 
 Base17 is a framework for building application themes based on a set of 16 colors - 8 shades and 8 accents. Either start with an existing color scheme and use it with any of our supported applications, or create your own and easily generate application themes for whatever you need!
 
-Base17 was originally based on the amazing work of [Chris Kempson](https://github.com/chriskempson/) and his [Base16](https://github.com/chriskempson/base16) system. This is our fork, aiming to be easier to use, while making incremental fixes and other improvements.
+Base17 was originally based on the amazing work of [Chris Kempson](https://github.com/chriskempson) and his [Base16](https://github.com/chriskempson/base16) system. This is our fork which aims to be both better maintained, and easier to use, all while making incremental fixes and other improvements.
 
 This repository is a member of the [base16-project](https://github.com/base16-project/home) family of color scheme systems.
 

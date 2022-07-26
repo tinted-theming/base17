@@ -1,7 +1,7 @@
 # Base17 Styling Guidelines
 **Version 0.2**
 
-Base16 aims to group similar language constructs with a single color. For example, floats, ints, and doubles would belong to the same colour group. The colors for the default scheme were chosen to be easily separable, but scheme designers should pick whichever colours they desire, e.g. `base0B` (green by default) could be replaced with red. There are, however, some general guidelines below that stipulate which `base0B` should be used to highlight each construct when designing templates for editors.
+Base17 aims to group similar language constructs with a single color. For example, floats, ints, and doubles would belong to the same colour group. The colors for the default scheme were chosen to be easily separable, but scheme designers should pick whichever colours they desire, e.g. `base0B` (green by default) could be replaced with red. There are, however, some general guidelines below that stipulate which `base0B` should be used to highlight each construct when designing templates for editors.
 
 Since describing syntax highlighting can be tricky, please see [base16-vim](https://github.com/base16-project/base16-vim/) and [base16-emacs](https://github.com/base16-project/base16-emacs/) for reference. Though it should be noted that each editor will have some discrepancies due the fact that editors often have very different syntax highlighting engines.
 
@@ -24,7 +24,6 @@ Colors `base00` to `base07` are typically variations of a shade and run from dar
 - **base0E** - Keywords, Storage, Selector, Markup Italic, Diff Changed
 - **base0F** - Deprecated, Opening/Closing Embedded Language Tags, e.g. `<?php ?>`
 
-_SPEC END_
 
 ---
 
