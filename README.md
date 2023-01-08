@@ -6,8 +6,8 @@
 
 **Features**
 
-- Seamless builder support for _multiple_ style systems ([Base16](https://github.com/chriskempson/base16), [Base17 DRAFT](https://github.com/base16-project/base17), [Base24](https://github.com/Base24/base24/), etc.)
-- Over 230 beautiful and ready-to-use color schemes. [View the Gallery](https://base16-project.github.io/base16-gallery).
+- Seamless builder support for _multiple_ style systems ([Base16](https://github.com/chriskempson/base16), [Base17 DRAFT](https://github.com/tinted-theming/base17), [Base24](https://github.com/Base24/base24/), etc.)
+- Over 230 beautiful and ready-to-use color schemes. [View the Gallery](https://tinted-theming.github.io/base16-gallery).
 - Over 70 supported GUI and terminal applications. [See the full list](#supported-applications).
 - Allows end users to choose a color scheme and know it will be available _everywhere_.
 - Allows color scheme designers to craft a palette of colors once, instantly supporting for many different apps.
@@ -30,7 +30,7 @@ A style guide provides rules governing how a scheme's palette should be applied 
 See the individual styling guides for more information on each:
 
 - [Base16](/styling.md) - the original, 16 colors with very fixed semantic meanings.
-- [Base17 DRAFT](https://github.com/base16-project/base17) - still 16 colors, but far more power and flexibility to create higher fidelity themes and templates.
+- [Base17 DRAFT](https://github.com/tinted-theming/base17) - still 16 colors, but far more power and flexibility to create higher fidelity themes and templates.
 - [Base24](https://github.com/Base24/base24/blob/master/styling.md) - an extra 8  colors for full ANSI support in your terminals.
 
 
@@ -65,16 +65,16 @@ maintaining that template.
 We are open to accepting new projects, though they must still be sponsored by a
 project member and have some level of activity.
 
-* [Emacs](https://github.com/base16-project/base16-emacs) maintained by [belak](https://github.com/belak)
-* [FZF](https://github.com/base16-project/base16-fzf) maintained by [fnune](https://github.com/fnune)
-* [Shell](https://github.com/base16-project/base16-shell) maintained by [belak](https://github.com/belak), [fnune](https://github.com/fnune), and [JamyGolden](https://github.com/JamyGolden)
-* [Tmux](https://github.com/base16-project/base16-tmux) maintained by [mattdavis90](https://github.com/mattdavis90)
-* [Vim](https://github.com/base16-project/base16-vim) maintained by [fnune](https://github.com/fnune), [BonaBeavis](https://github.com/BonaBeavis), and [JamyGolden](https://github.com/JamyGolden)
+* [Emacs](https://github.com/tinted-theming/base16-emacs) maintained by [belak](https://github.com/belak)
+* [FZF](https://github.com/tinted-theming/base16-fzf) maintained by [fnune](https://github.com/fnune)
+* [Shell](https://github.com/tinted-theming/base16-shell) maintained by [belak](https://github.com/belak), [fnune](https://github.com/fnune), and [JamyGolden](https://github.com/JamyGolden)
+* [Tmux](https://github.com/tinted-theming/base16-tmux) maintained by [mattdavis90](https://github.com/mattdavis90)
+* [Vim](https://github.com/tinted-theming/base16-vim) maintained by [fnune](https://github.com/fnune), [BonaBeavis](https://github.com/BonaBeavis), and [JamyGolden](https://github.com/JamyGolden)
 
 Terminals:
 
-* [ConEmu](https://github.com/base16-project/base16-conemu) maintained by [martinlindhe](https://github.com/martinlindhe)
-* [iTerm2](https://github.com/base16-project/base16-iterm2) maintained by [martinlindhe](https://github.com/martinlindhe)
+* [ConEmu](https://github.com/tinted-theming/base16-conemu) maintained by [martinlindhe](https://github.com/martinlindhe)
+* [iTerm2](https://github.com/tinted-theming/base16-iterm2) maintained by [martinlindhe](https://github.com/martinlindhe)
 
 ### Contrib Templates
 
@@ -210,7 +210,7 @@ separators).
 
 ## Schemes
 
-To add a Base16 scheme, simply submit a pull request to the [base16-schemes repo](https://github.com/base16-project/base16-schemes) and add your scheme.
+To add a Base16 scheme, simply submit a pull request to the [base16-schemes repo](https://github.com/tinted-theming/base16-schemes) and add your scheme.
 
 ## Builders
 
@@ -225,8 +225,8 @@ version.
 See the [CHANGELOG](/CHANGELOG.md) for more information about changes in the
 spec.
 
-* [Base16 Builder Go](https://github.com/base16-project/base16-builder-go) maintained by [belak](https://github.com/belak) - currently supports 0.10.0
-* [Base16 Builder Node](https://github.com/base16-project/base16-builder-node) maintained by [joshgoebel](https://github.com/joshgoebel) - currently supports 0.10.0
+* [Base16 Builder Go](https://github.com/tinted-theming/base16-builder-go) maintained by [belak](https://github.com/belak) - currently supports 0.10.0
+* [Base16 Builder Node](https://github.com/tinted-theming/base16-builder-node) maintained by [joshgoebel](https://github.com/joshgoebel) - currently supports 0.10.0
 
 ## Scheme and Template Author Resources
 
