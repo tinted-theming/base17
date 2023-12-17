@@ -1,3 +1,7 @@
+# Deprecation notice
+
+After forking from the original base16, we tried to decide what we wanted the "next generation" version of base16 to look like. Base17 was one of the early iterations. While we may end up going in this direction in the future, we have (currently) decided against this specific iteration. Over time, we plan to add a number of features to our "common scheme format" which would expand it to work like base17, but building it out iteratively rather than all at once.
+
 # All your themes, everywhere. <img alt="Color wheel" src="./color_wheel.png" width="100" align="right" style="padding-top:0.6rem;">
 
  Style systems and smart build tooling for crafting high fidelity color schemes and easily using them in all your favorite apps.  Originally based on the amazing work of [Chris Kempson](https://github.com/chriskempson/) and his [Base16](https://github.com/chriskempson/base16) system.
